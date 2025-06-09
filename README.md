@@ -1,4 +1,4 @@
-# Hey there! I'm Domxnvk 👋
+# Hey there! I'm Dominik! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Discord+Bot+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
