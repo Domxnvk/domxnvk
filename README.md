@@ -17,11 +17,7 @@ Building the dashboard with Next.js + FastAPI on the side.
 ### stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,discord" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,docker" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,discord,nextjs,react,fastapi,mysql,mongodb,redis,docker" />
 </p>
 
 ---
