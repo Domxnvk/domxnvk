@@ -29,11 +29,14 @@ Building the dashboard with Next.js + FastAPI on the side.
 ### stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Domxnvk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domxnvk&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Domxnvk&theme=tokyo_night" />
 </p>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Domxnvk&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Domxnvk&theme=tokyo_night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Domxnvk&theme=tokyo_night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Domxnvk&theme=tokyo_night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Domxnvk&theme=tokyo_night&utcOffset=1" />
+</p>
 
 ---
 
