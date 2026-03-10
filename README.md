@@ -29,13 +29,11 @@ Building the dashboard with Next.js + FastAPI on the side.
 ### stats
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Domxnvk&theme=tokyo_night" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Domxnvk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&hide=contribs" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domxnvk&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Domxnvk&theme=tokyo_night" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Domxnvk&theme=tokyo_night" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Domxnvk&theme=tokyo_night" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Domxnvk&theme=tokyo_night&utcOffset=1" />
+  <img height="150" src="https://streak-stats.demolab.com?user=Domxnvk&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
